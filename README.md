@@ -3,7 +3,7 @@
 - My name is Roshan John
 - I graduated from VIT in 2022
 - I"m a computer Science major
-- I like to work with React,React Native and NodeJS
+- Vim over Emacs
 - Tabs over Spaces
 
 # Socials
